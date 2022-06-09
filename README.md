@@ -1,5 +1,5 @@
 ### 
-- 🔭 Actualmente soy estudiante de Ingnería en Ciencias y sistemas
+- 🔭 Actualmente soy estudiante de Ingeniería en Ciencias y sistemas
 - ⚡ Esta es mi cuenta oficial de Git  --> https://github.com/ifigueroa065
 <div align="center">
   <a href="https://github.com/Roafnisma">
